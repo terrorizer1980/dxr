@@ -11,6 +11,6 @@
     "esprima": "2.7.2",
     "lockdown": "0.0.6",
     "minimatch": "3.0.0",
-    "walk": "2.3.9"
+    "walk": "2.3.14"
   }
 }
